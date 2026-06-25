@@ -1,6 +1,6 @@
 # Image Classifier — Transfer Learning with Vision Transformer
 
-**Bootcamp Assignment 3 | Session 5**
+**Bootcamp Assignment **
 
 ## Overview
 A 5-class image classifier built using transfer learning. Instead of training a model from scratch, a pre-trained Vision Transformer (ViT) from Hugging Face is fine-tuned on a custom dataset — demonstrating how powerful models can be adapted with minimal data and compute.
